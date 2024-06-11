@@ -1,0 +1,15 @@
+
+class ModelFile(object):
+    CONFIGURATION = 'configuration.json'
+    README = 'README.md'
+    TORCH_MODEL_FILE = 'pytorch_model.pt'
+    TORCH_MODEL_BIN_FILE = 'pytorch_model.bin'
+    VOCAB_FILE = 'vocab.txt'
+    ONNX_MODEL_FILE = 'model.onnx'
+    LABEL_MAPPING = 'label_mapping.json'
+    TRAIN_OUTPUT_DIR = 'output'
+    TRAIN_BEST_OUTPUT_DIR = 'output_best'
+    TS_MODEL_FILE = 'model.ts'
+    YAML_FILE = 'model.yaml'
+    TOKENIZER_FOLDER = 'tokenizer'
+    CONFIG = 'config.json'
